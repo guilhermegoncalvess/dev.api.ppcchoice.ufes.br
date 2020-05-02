@@ -41,5 +41,4 @@ apidoc.json
 *.sql
 
 
-package-lock.json
-composer.lock.json
+
