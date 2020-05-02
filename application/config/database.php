@@ -80,7 +80,7 @@ $db['default'] = array(
 	'password' => getenv('DB_PASSWORD'),
 	'database' => getenv('DB_DATABASE'),
 	'dbdriver' => getenv('DB_DRIVER'),
-	'port' 	   => getenv('DB_PORT'),
+	// 'port' 	   => getenv('DB_PORT'),
 	'dbprefix' => '',
 	'pconnect' => FALSE,
 	'db_debug' => (ENVIRONMENT !== 'production'),
